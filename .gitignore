@@ -1,4 +1,2 @@
 /venv
-/employee/__pycache__
-/GSPanal/__pycache__
-/.idea
+__pycache__
