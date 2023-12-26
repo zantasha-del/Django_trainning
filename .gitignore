@@ -1,5 +1,5 @@
 /venv
-/employee/__pycache__
-/employee/migrations
-/GSPanal/__pycache__
+/employee
+/employee
+/GSPanal
 /.idea
